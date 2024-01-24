@@ -1,6 +1,7 @@
 # Getting Started with Create React App
 
 Click here to see the deployed page:
+
 https://pradeish29.github.io/todolist-react-app/
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
