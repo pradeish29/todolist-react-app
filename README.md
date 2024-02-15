@@ -1,6 +1,6 @@
 # Getting Started with Create React App
 
-Click here to see the deployed page:
+Click here to see the deployed page: 
 
 https://pradeish29.github.io/todolist-react-app/
 
